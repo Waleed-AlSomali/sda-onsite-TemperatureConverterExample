@@ -1,0 +1,14 @@
+C:\Users\walee\Desktop\sda-onsite\bin\Debug\net8.0\sda-onsite.exe
+C:\Users\walee\Desktop\sda-onsite\bin\Debug\net8.0\sda-onsite.deps.json
+C:\Users\walee\Desktop\sda-onsite\bin\Debug\net8.0\sda-onsite.runtimeconfig.json
+C:\Users\walee\Desktop\sda-onsite\bin\Debug\net8.0\sda-onsite.dll
+C:\Users\walee\Desktop\sda-onsite\bin\Debug\net8.0\sda-onsite.pdb
+C:\Users\walee\Desktop\sda-onsite\obj\Debug\net8.0\sda-onsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walee\Desktop\sda-onsite\obj\Debug\net8.0\sda-onsite.AssemblyInfoInputs.cache
+C:\Users\walee\Desktop\sda-onsite\obj\Debug\net8.0\sda-onsite.AssemblyInfo.cs
+C:\Users\walee\Desktop\sda-onsite\obj\Debug\net8.0\sda-onsite.csproj.CoreCompileInputs.cache
+C:\Users\walee\Desktop\sda-onsite\obj\Debug\net8.0\sda-onsite.dll
+C:\Users\walee\Desktop\sda-onsite\obj\Debug\net8.0\refint\sda-onsite.dll
+C:\Users\walee\Desktop\sda-onsite\obj\Debug\net8.0\sda-onsite.pdb
+C:\Users\walee\Desktop\sda-onsite\obj\Debug\net8.0\sda-onsite.genruntimeconfig.cache
+C:\Users\walee\Desktop\sda-onsite\obj\Debug\net8.0\ref\sda-onsite.dll
